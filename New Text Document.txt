@@ -1,0 +1,2 @@
+Start PHP server using PHP in c:\users\gbatta\Downloads\
+php -S 127.0.0.1:80 -t .
