@@ -8,7 +8,7 @@ $serverName = "myclouddbserver.database.windows.net" ;
 $connectionOptions = array(
     "Database" => "myclouddb",
     "Uid" => "gbatta",
-    "PWD" => "Deveshi11$"
+    "PWD" => "MyUsuall11$$"
 );
 //Establishes the connection
 $conn = sqlsrv_connect($serverName, $connectionOptions);
