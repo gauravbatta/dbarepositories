@@ -2,7 +2,7 @@
 <br> <b> Enter your query for chart </b> <br> <br><textarea name="servername" rows="1" cols="100"> myclouddbserver.database.windows.net </textarea> <br>
 <br> Database : <INPUT TYPE = "Text" NAME = "dbs" value ="myclouddb" > <br>
 <br> Uid : <INPUT TYPE = "Text" NAME = "uid" value ="gbatta" > <br>
-<br> Pass : <INPUT TYPE = "Text" NAME = "passwd" value ="Deveshi11$" > <br>
+<br> Pass : <INPUT TYPE = "Text" NAME = "passwd" value ="UsualPwd11$" > <br>
 <br> <b> Enter your query  </b> <br> <br><textarea name="tarea" rows="3" cols="100"> SELECT TOP 20 FirstName, LastName from SalesLT.Customer </textarea> <br>
 <INPUT TYPE = "Submit" Name = "Submit" VALUE = "Go"> <br>
 <?php
